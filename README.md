@@ -2,5 +2,5 @@
 Contains all Aceso related items like proposal that are allowed to be open source.
 
 # Brief Description
-•	A global diverse team from various countries.
+•	A global diverse team from various countries. <br>
   Goal: To build a plugin to enhance the user experience of existing telehealth platforms 
